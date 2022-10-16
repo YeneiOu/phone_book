@@ -21,7 +21,7 @@ const View = () => {
 
         <div className="w-96  mx-auto bg-[#20354b] rounded-2xl px-8 py-6 shadow-lg">
           <div className="flex items-center justify-start">
-           <h2 className="text-white font-bold text-2xl tracking-wide">ลำดับ {id}</h2>
+           <h2 className="text-white font-bold text-2xl tracking-wide"></h2>
             
           </div>
           <div className="mt-6 w-fit mx-auto">
